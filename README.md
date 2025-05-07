@@ -116,6 +116,14 @@ server-side/            # Backend Node.js application
 - `PUT /api/events/:id` - Update an event
 - `DELETE /api/events/:id` - Delete an event
 
+### Demo Of The Project
+![image](https://github.com/user-attachments/assets/bb31c69a-c39b-4cdc-8397-39deb48bbde6)
+![image](https://github.com/user-attachments/assets/0830c3b1-2a30-4d2b-a66f-9a51f8cf520b)
+![image](https://github.com/user-attachments/assets/847cb2d6-046b-4447-bfa6-d5be0b826ab0)
+![image](https://github.com/user-attachments/assets/76206930-5dba-4c45-8145-8ba7a9fdec8e)
+
+
+
 ## License
 
 This project is licensed under the MIT License. 
